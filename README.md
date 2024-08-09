@@ -26,6 +26,7 @@ Estou sempre buscando aprender e me desenvolver. Meus objetivos para o futuro in
 Aprofundar conhecimentos em desenvolvimento front-end
 Explorar mais ferramentas de design
 Colaborar em projetos open-source
+
 ⭐️ Dê uma Estrela!
 Se você gostou dos meus projetos ou achou algo útil, considere dar uma estrela! 🌟
 
