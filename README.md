@@ -2,14 +2,13 @@
 Tenho 17 anos e atualmente estou cursando Desenvolvimento de Sistemas no Senai. Também conclui um curso de Google Cloud, ampliando minhas habilidades na área de computação em nuvem. Estou no último ano do Senai e do ensino médio, e estou empolgada para iniciar minha jornada profissional na área de tecnologia.
 
 🚀 Tecnologias & Ferramentas
-Linguagens de Programação: [Aqui você pode listar as linguagens que conhece, como JavaScript, Python, etc.]
 Cloud Computing: Google Cloud
 
 🌱 Estou Aprendendo
 Atualmente, estou me aprofundando em:
-
 Desenvolvimento de aplicações web
 Melhores práticas em design de interfaces
+
 🎨 Habilidades em Design
 Tenho um grande interesse em design, e estou constantemente explorando novas formas de criar interfaces de usuário atraentes e intuitivas.
 
